@@ -1,2 +1,2 @@
-# AplikasiCekCuacaSederhana
-Tugas 6- GaluhUliasari(2310010117)
+# AplikasiCekCuaca
+Tugas 6-Galuh Uliasari(2310010117)
